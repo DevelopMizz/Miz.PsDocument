@@ -1,5 +1,5 @@
 # Miz.PsDocument
-A PowerShell module for automatically generating documentation 
+A PowerShell module for automatically generating documentation. 
 
 ## Version
 | Version        | Date        | Approval |
