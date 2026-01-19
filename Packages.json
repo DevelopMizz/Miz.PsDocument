@@ -1,0 +1,12 @@
+[
+    {
+        "Name":"Ps",
+        "Detection":".ps1",
+        "File":"Ps.ps1"
+    },
+    {
+        "Name":"PsModule",
+        "Detection":".psm1",
+        "File":"PsMod.ps1"
+    }
+]
